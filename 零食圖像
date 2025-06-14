@@ -1,12 +1,11 @@
 | snack\_id          | name          | brand | flavor\_type | image\_url                                                                                                                                                          |
 | ------------------ | ------------- | ----- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| lays\_original     | 樂事洋芋片原味       | 樂事    | 原味           | [https://cf.shopee.tw/file/28d6c0a022be1450a48ff7ea4a158e43](https://cf.shopee.tw/file/28d6c0a022be1450a48ff7ea4a158e43)                                            |
-| lays\_bbq          | 樂事洋芋片美國經典原味烤肉 | 樂事    | 烤肉           | [https://images.pchomeec.tw/ecm/imgsrv/F0/0/4/P/77/3/3/100/17/1/7713343170\_2.jpg](https://images.pchomeec.tw/ecm/imgsrv/F0/0/4/P/77/3/3/100/17/1/7713343170_2.jpg) |
-| lays\_seaweed      | 樂事洋芋片九州岩燒海苔   | 樂事    | 海苔           | [https://img.ruten.com.tw/s3/10/58/5d/19523603294342\_457.jpg](https://img.ruten.com.tw/s3/10/58/5d/19523603294342_457.jpg)                                         |
-| lays\_cheese       | 樂事洋芋片瑞士香濃起司   | 樂事    | 起司           | [https://cf.shopee.tw/file/9d19e9aa57c8e8f2a575be184be94f96](https://cf.shopee.tw/file/9d19e9aa57c8e8f2a575be184be94f96)                                            |
-| pringles\_original | 品客洋芋片原味       | 品客    | 原味           | [https://cf.shopee.tw/file/27d7a7368f1bba2678f0ad298af491b3](https://cf.shopee.tw/file/27d7a7368f1bba2678f0ad298af491b3)                                            |
-| pringles\_onion    | 品客洋芋片洋蔥       | 品客    | 洋蔥           | [https://cf.shopee.tw/file/16e4de2c65fbd9dce42a08a60a1d09bb](https://cf.shopee.tw/file/16e4de2c65fbd9dce42a08a60a1d09bb)                                            |
-| pringles\_spicy    | 品客洋芋片嗆辣       | 品客    | 嗆辣           | [https://cf.shopee.tw/file/41b8d39a50f9186793f6a5ce9c297243](https://cf.shopee.tw/file/41b8d39a50f9186793f6a5ce9c297243)                                            |
-| pringles\_seaweed  | 品客洋芋片海苔       | 品客    | 海苔           | [https://cf.shopee.tw/file/2be5208d1572afadf4e625b0d78c26af](https://cf.shopee.tw/file/2be5208d1572afadf4e625b0d78c26af)                                            |
+| lays\_original     | 樂事洋芋片原味       | 樂事    | 原味           | https://tw.buy.yahoo.com/gdsale/%E6%A8%82%E4%BA%8B-%E7%BE%8E%E5%9C%8B%E7%B6%93%E5%85%B8%E5%8E%9F%E5%91%B3%E6%B4%8B%E8%8A%8B%E7%89%87-43g-8378928.html |                                           |
+| lays\_seaweed      | 樂事洋芋片九州岩燒海苔   | 樂事    | 海苔           | https://tw.buy.yahoo.com/gdsale/%E6%A8%82%E4%BA%8B-%E4%B9%9D%E5%B7%9E%E5%B2%A9%E7%87%92%E6%B5%B7%E8%8B%94%E5%91%B3%E6%B4%8B%E8%8A%8B%E7%89%87-43g-8378931.html                                        |
+| lays\_cheese       | 樂事洋芋片瑞士香濃起司   | 樂事    | 起司           | https://tw.buy.yahoo.com/gdsale/%E6%A8%82%E4%BA%8B-%E7%91%9E%E5%A3%AB%E9%A6%99%E6%BF%83%E8%B5%B7%E5%8F%B8%E5%91%B3%E6%B4%8B%E8%8A%8B%E7%89%87-43g-8378923.html                                           |
+| pringles\_original | 品客洋芋片原味       | 品客    | 原味           | https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSW_kjG_swOKtstlZLBNjzm1GXS4bibRyGNF8eHY8D2MWKum1RZcKHkLMItm4qQ8En6F1AeCUwuPS3yu3qFmWNhcA0bQQIdGRePre--yu65GM41VwXQOgyoMA                                         |
+| pringles\_onion    | 品客洋芋片洋蔥       | 品客    | 洋蔥           | https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8FZh_G7m57jgqVCWZS76maTlABiqaZVbShAAk6t-IoRWPFq4tTjL3SyZWx-H98rNFtG0zsZ8cfATh2vVC2jplUxqnaxwlRLFtX8vDIshYfwgutBG0gqpp6Q                                           |
+| pringles\_spicy    | 品客洋芋片嗆辣       | 品客    | 嗆辣           | https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTMpsVahnW1N3u42uRKMKSsCYGLxr71F_WGKAwvUULewHnqqg8o6oj0KRBJ24bqFhnD8NoqcBtL8k9mPRak2M5esMHvG9AxmNQX5gaKQPV1V4kLQF4S9cOuWg                                            |
+
 
 
