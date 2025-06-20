@@ -1,0 +1,14 @@
+snack_id,shop,location,price,url
+lays_original,7-ELEVEN,全台,32,https://www.7-11.com.tw/
+lays_original,全聯,台灣各地,28,https://www.pxmart.com.tw/
+lays_original,蝦皮購物,線上,25,https://shopee.tw
+lays_seaweed,家樂福,台北市,30,https://online.carrefour.com.tw
+lays_seaweed,momo購物網,線上,27,https://www.momoshop.com.tw/
+lays_cheese,7-ELEVEN,全台,35,https://www.7-11.com.tw/
+lays_cheese,蝦皮購物,線上,29,https://shopee.tw
+pringles_original,家樂福,新北市,39,https://online.carrefour.com.tw
+pringles_original,Costco,全台,120,https://www.costco.com.tw
+pringles_onion,momo購物網,線上,45,https://www.momoshop.com.tw/
+pringles_onion,蝦皮購物,線上,43,https://shopee.tw
+pringles_spicy,PChome,線上,65,https://24h.pchome.com.tw/
+pringles_spicy,蝦皮購物,線上,60,https://shopee.tw
